@@ -1,0 +1,47 @@
+{
+    "TechExperience": [
+        {
+            "portfolio": "Python",
+            "organisation": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
+            "location": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
+            "Duration": "",
+            "JD": [
+                "jewdkc",
+                "jhowlcw"
+            ]
+        },
+        {
+            "portfolio": "Python",
+            "organisation": "Python Software Foundation",
+            "location": "Remote",
+            "imageLink": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
+            "duration": "2 years",
+            "JD": [
+                "Developed web applications",
+                "Data analysis and scripting"
+            ]
+        },
+        {
+            "portfolio": "JavaScript",
+            "organisation": "Various Projects",
+            "location": "Remote",
+            "imageLink": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+            "duration": "3 years",
+            "JD": [
+                "Frontend development",
+                "Interactive UI components"
+            ]
+        },
+        {
+            "portfolio": "Java",
+            "organisation": "Oracle",
+            "location": "On-site",
+            "imageLink": "https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg",
+            "duration": "5 years",
+            "JD": [
+                "Backend development",
+                "Enterprise applications"
+            ]
+        }
+    ]
+}
